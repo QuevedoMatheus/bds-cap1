@@ -51,6 +51,7 @@ public class Product implements Serializable {
 		this.date = date;
 	}
 
+
 	public Long getId() {
 		return id;
 	}
